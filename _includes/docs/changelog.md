@@ -1,4 +1,3 @@
-
 ## Changelog
 
 06 February 2014
@@ -78,7 +77,7 @@
 
 01 December 2013
 
-* Update Vietnamese (vi) for Laravel 4.1 by [anhsaker](https://github.com/anhsaker)
+* Update Vietnamese (vi) for Laravel 4.1 by [anhskohbo](https://github.com/anhskohbo)
 
 21 November 2013
 
